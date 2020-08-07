@@ -1,9 +1,9 @@
-# tomanocupacero™️
+# cabeleleilaleila
+
 <div style="text-align: center">
-    <img src="./tomanocupacero.jpeg" height="300"/>
 </div>
 
-> Tmnc pacero to chei de ódio [video](https://twitter.com/mcpozedorodo/status/1194809058194264064?lang=en)
+> Cabelo, unhas, hitratação e unhas [video](https://www.youtube.com/watch?v=rZ04NyONlH0)
 
 ## Compatibilidade
 
@@ -12,24 +12,24 @@
 - Windows
 
 ## Rodando com [npx](https://www.npmjs.com/package/npx)
->O npx vem junto com o npm a partir da versão 5.2.0.
+
+> O npx vem junto com o npm a partir da versão 5.2.0.
 
 Rode o comando:
 
-    npx tomanocupacero
-
+    npx leila
 
 ## Rodando via CLI
+
 Instale globalment e rode o comando:
 
-    npm install -g tomanocupacero
+    npm install -g leila
 
-    tomanocupacero
-
+    leila
 
 ## Veja também
 
- - [Oloquinho](https://github.com/oloquinho/oloquinho)
- - [xFiles](https://github.com/BrOrlandi/xfiles/)
- - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
- - [Omaewa](https://github.com/BrOrlandi/omaewa/)
+- [Oloquinho](https://github.com/oloquinho/oloquinho)
+- [xFiles](https://github.com/BrOrlandi/xfiles/)
+- [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
+- [Omaewa](https://github.com/BrOrlandi/omaewa/)
