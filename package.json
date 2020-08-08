@@ -1,7 +1,7 @@
 {
   "name": "cabeleleilaleila",
-  "version": "0.0.2",
-  "description": "Cabelos, unhas, hitratação e unhas",
+  "version": "0.0.3",
+  "description": "Cabelos, unhas, hidratação e unhas",
   "main": "src/cli.js",
   "scripts": {
     "start": "node src/cli.js"
