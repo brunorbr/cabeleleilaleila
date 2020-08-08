@@ -18,15 +18,15 @@
 
 Rode o comando:
 
-    npx cabeleleilaleila
+    $ npx cabeleleilaleila
 
 ## Rodando via CLI
 
 Instale globalment e rode o comando:
 
-    npm install -g cabeleleilaleila
+    $ npm install -g cabeleleilaleila
 
-    leila
+    $ leila
 
 ## Veja também
 
