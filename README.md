@@ -23,7 +23,7 @@ Rode o comando:
 
 Instale globalment e rode o comando:
 
-    npm install -g leila
+    npm install -g cabeleleilaleila
 
     leila
 
