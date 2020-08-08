@@ -17,7 +17,7 @@
 
 Rode o comando:
 
-    npx leila
+    npx cabeleleilaleila
 
 ## Rodando via CLI
 
