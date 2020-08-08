@@ -18,7 +18,7 @@
   "author": "Roger Oliveira <rogerpolvr@gmail.com>",
   "license": "MIT",
   "bin": {
-    "tomanocupacero": "./src/cli.js"
+    "leila": "./src/cli.js"
   },
   "bugs": {
     "url": "https://github.com/rogerpolvr/cabeleleilaleila/issues"

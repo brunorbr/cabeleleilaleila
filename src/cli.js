@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 
 const meow = require('meow');
-const cabeloUnhas = require('./index')
+const leila = require('./index')
 
 // TODO: when tail call optimization is implemented on NodeJS, simplify this.
 const cliMode = async ({ flags }) => {
-  while (true) await cabeloUnhas();
+  while (true) await leila();
 };
 
 const cliInterface = meow({});

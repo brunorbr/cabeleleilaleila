@@ -7,9 +7,9 @@ const execPromise = promisify(exec);
 
 const mainPath = path.dirname(fs.realpathSync(__filename));
 const windowsScript = path.join(mainPath, './forWindows.jscript');
-const soundPath = path.join(mainPath, './audios/cabeleleilaleila');
+const soundPath = path.join(mainPath, './audios/leila');
 
-const cabeloUnhas = () => {
+const leila = () => {
   const commandsForEachPlatform = {
     linux: `paplay ${soundPath}.ogg`,
     darwin: `afplay ${soundPath}.mp3`,
@@ -22,4 +22,4 @@ const cabeloUnhas = () => {
   return execPromise(codeToExecute);
 };
 
-module.exports = cabeloUnhas;
+module.exports = leila;
